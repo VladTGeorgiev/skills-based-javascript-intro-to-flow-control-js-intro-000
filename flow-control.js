@@ -1,4 +1,5 @@
-age = 16
+var age;
+age = 16;
 
 function basicTeenager(age) {
   if(age > 13 && age < 19) {
